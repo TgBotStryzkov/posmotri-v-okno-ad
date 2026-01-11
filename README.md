@@ -1,4 +1,4 @@
-https://github.com/TgBotStryzkov/posmotri_v_okno-ad
+https://github.com/TgBotStryzkov/posmotri-v-okno-ad
 
 # Яндекс Практикум, практическая работа "Посмотри В Окно"
 
