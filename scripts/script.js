@@ -254,7 +254,6 @@ function showError(container, errorTemplate, errorMessage) {
   console.log('показал, ошибку');
 }
 
-// вывожу больше видео, если в пагинации больше страниц, чем показано
 
 function showMoreCards({
   dataArray,
